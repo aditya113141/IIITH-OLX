@@ -75,7 +75,7 @@ IIIT community for all intents and purposes is one driven by the students. Our s
 had created the ever so helpful mess portal, Felicity website and many other things we can't even contemplate 
 living without. Since majority of our team mates were well versed in the ways of web development and rest kind 
 of were tyros in both android and web app development domain, we decided to create a web application 
-that would tackle a real life problem. This was the humble beginning of our project (^ v ^).
+that would tackle a real life problem. This was the humble beginning of our project
 
 
 
